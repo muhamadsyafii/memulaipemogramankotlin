@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Arrays/Arrays" />
+            <option value="$PROJECT_DIR$/Boolean/Boolean" />
+            <option value="$PROJECT_DIR$/Char/Char" />
+            <option value="$PROJECT_DIR$/Data Types &amp; Variable/Data Types &amp; Variable" />
+            <option value="$PROJECT_DIR$/Functions/Functions" />
+            <option value="$PROJECT_DIR$/If Expressions/If Expressions" />
+            <option value="$PROJECT_DIR$/Kotlin Fundamental/Kotlin Fundamental" />
+            <option value="$PROJECT_DIR$/Nullable Types/Nullable Types" />
+            <option value="$PROJECT_DIR$/Number/Number" />
+            <option value="$PROJECT_DIR$/Safe Calls and Elvis Operator/Safe Calls and Elvis Operator" />
+            <option value="$PROJECT_DIR$/String Template/String Template" />
+            <option value="$PROJECT_DIR$/String/String" />
+            <option value="$PROJECT_DIR$/lesson1/task1" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

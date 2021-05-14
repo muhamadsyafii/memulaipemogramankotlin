@@ -1,0 +1,20 @@
+title: Memulai Pemograman dengan Kotlin
+language: English
+summary: |-
+  Kotlin course.
+  Created: May 14, 2021, 6:47:29 PM.
+programming_language: Kotlin
+content:
+- lesson1
+- Kotlin Fundamental
+- Data Types & Variable
+- Char
+- String
+- Functions
+- If Expressions
+- Boolean
+- Number
+- Arrays
+- Nullable Types
+- Safe Calls and Elvis Operator
+- String Template
