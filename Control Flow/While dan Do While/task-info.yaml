@@ -1,0 +1,7 @@
+type: edu
+custom_name: ' While dan Do While'
+files:
+- name: src/Task.kt
+  visible: true
+- name: test/Tests.kt
+  visible: false
