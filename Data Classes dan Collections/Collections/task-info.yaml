@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+- name: test/Tests.kt
+  visible: false
+- name: src/Map.kt
+  visible: true
+- name: src/Set.kt
+  visible: true
+- name: src/Collections Operations.kt
+  visible: true
+- name: src/Sequences.kt
+  visible: true

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Data_Classes_dan_Collections-Collections" external.linked.project.path="$MODULE_DIR$/../../../../Data Classes dan Collections/Collections" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Memulai_Pemograman_dengan_Kotlin" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Data Classes dan Collections/Collections">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Data Classes dan Collections/Collections/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Data Classes dan Collections/Collections/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Data Classes dan Collections/Collections/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
